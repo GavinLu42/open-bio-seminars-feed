@@ -1,0 +1,75 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Open Seminar Finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Open Bio Seminars
+X-WR-CALDESC:Open biology seminars marked Interested in Open Seminar Finder
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:2026-11-03-blenis@open-seminar-finder
+DTSTAMP:20261019T211512Z
+DTSTART:20261103T150000Z
+DTEND:20261103T160000Z
+SUMMARY:John Blenis: How What We Eat Regulates Cancer Progression\, Metasta
+ sis and Escape from Dormancy
+DESCRIPTION:John Blenis\, Weill Cornell Medicine\nCancer Center Seminar Ser
+ ies · Masonic Cancer Center\, University of Minnesota\nAccess: on request
+ \nJoin/register: https://umn-private.zoom.us/j/98692713230\nEvent page: ht
+ tps://cancer.umn.edu/cancer-center-seminar-series\nThe Zoom link may requi
+ re a UMN login\; email the organizers on the event page if it does.
+LOCATION:https://umn-private.zoom.us/j/98692713230
+URL:https://cancer.umn.edu/cancer-center-seminar-series
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-12-blackford@open-seminar-finder
+DTSTAMP:20261019T211512Z
+DTSTART:20261112T170000Z
+DTEND:20261112T180000Z
+SUMMARY:Andrew Blackford: How cells respond to DNA damage in mitosis
+DESCRIPTION:Andrew Blackford\, University of Copenhagen\nSocial DNAing · C
+ olumbia HICCC\nAccess: register\nJoin/register: https://columbiacuimc.zoom
+ .us/webinar/register/WN_d-atz6QsQUG1j76oVU9L3A\nEvent page: https://www.ca
+ ncer.columbia.edu/research/programs/cancer-genomics-and-epigenomics/social
+ -dnaing\nMitotic errors\; adjacent to polyploidy rather than about it.
+LOCATION:https://columbiacuimc.zoom.us/webinar/register/WN_d-atz6QsQUG1j76o
+ VU9L3A
+URL:https://www.cancer.columbia.edu/research/programs/cancer-genomics-and-e
+ pigenomics/social-dnaing
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-10-durocher@open-seminar-finder
+DTSTAMP:20261019T211512Z
+DTSTART:20261210T170000Z
+DTEND:20261210T180000Z
+SUMMARY:Daniel Durocher: The mitotic response to DNA damage
+DESCRIPTION:Daniel Durocher\, Lunenfeld-Tanenbaum Research Institute\nSocia
+ l DNAing · Columbia HICCC\nAccess: register\nJoin/register: https://colum
+ biacuimc.zoom.us/webinar/register/WN_d-atz6QsQUG1j76oVU9L3A\nEvent page: h
+ ttps://www.cancer.columbia.edu/research/programs/cancer-genomics-and-epige
+ nomics/social-dnaing\nMitotic errors\; adjacent to polyploidy rather than 
+ about it.
+LOCATION:https://columbiacuimc.zoom.us/webinar/register/WN_d-atz6QsQUG1j76o
+ VU9L3A
+URL:https://www.cancer.columbia.edu/research/programs/cancer-genomics-and-e
+ pigenomics/social-dnaing
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-17-vindigni@open-seminar-finder
+DTSTAMP:20261019T211512Z
+DTSTART:20261217T170000Z
+DTEND:20261217T180000Z
+SUMMARY:Alessandro Vindigni: Understanding the Mechanisms of DNA Replicatio
+ n Stress Response to PARP Inhibitors
+DESCRIPTION:Alessandro Vindigni\, Washington University\nSocial DNAing · C
+ olumbia HICCC\nAccess: register\nJoin/register: https://columbiacuimc.zoom
+ .us/webinar/register/WN_d-atz6QsQUG1j76oVU9L3A\nEvent page: https://www.ca
+ ncer.columbia.edu/research/programs/cancer-genomics-and-epigenomics/social
+ -dnaing
+LOCATION:https://columbiacuimc.zoom.us/webinar/register/WN_d-atz6QsQUG1j76o
+ VU9L3A
+URL:https://www.cancer.columbia.edu/research/programs/cancer-genomics-and-e
+ pigenomics/social-dnaing
+END:VEVENT
+END:VCALENDAR
