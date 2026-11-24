@@ -7,4 +7,96 @@ X-WR-CALNAME:Open Bio Seminars
 X-WR-CALDESC:Open biology seminars marked Interested in Open Seminar Finder
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:2026-12-03-paull@open-seminar-finder
+DTSTAMP:20261124T180712Z
+DTSTART:20261203T170000Z
+DTEND:20261203T180000Z
+SUMMARY:Tanya Paull: Mechanisms of DNA repair and damage signaling
+DESCRIPTION:Tanya Paull\, UT Austin\nSocial DNAing · Columbia HICCC\nAcces
+ s: register\nJoin/register: https://columbiacuimc.zoom.us/webinar/register
+ /WN_d-atz6QsQUG1j76oVU9L3A\nEvent page: https://www.cancer.columbia.edu/re
+ search/programs/cancer-genomics-and-epigenomics/social-dnaing\nOne free Zo
+ om registration covers the series.
+LOCATION:https://columbiacuimc.zoom.us/webinar/register/WN_d-atz6QsQUG1j76o
+ VU9L3A
+URL:https://www.cancer.columbia.edu/research/programs/cancer-genomics-and-e
+ pigenomics/social-dnaing
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-04-zhang@open-seminar-finder
+DTSTAMP:20261124T180712Z
+DTSTART:20261204T173000Z
+DTEND:20261204T183000Z
+SUMMARY:Qing Zhang: Cancer Center Seminar (title not listed)
+DESCRIPTION:Qing Zhang\, UT Southwestern\nUVA Comprehensive Cancer Center S
+ eminar · UVA Comprehensive Cancer Center\nAccess: on request\nEvent page:
+  https://med.virginia.edu/events/41803\nHybrid\; Zoom link via contact (Am
+ y Denton). Speaker works on hypoxia/tumor metabolic signaling.
+LOCATION:https://med.virginia.edu/events/41803
+URL:https://med.virginia.edu/events/41803
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-10-durocher@open-seminar-finder
+DTSTAMP:20261124T180712Z
+DTSTART:20261210T170000Z
+DTEND:20261210T180000Z
+SUMMARY:Daniel Durocher: The mitotic response to DNA damage
+DESCRIPTION:Daniel Durocher\, Lunenfeld-Tanenbaum Research Institute\nSocia
+ l DNAing · Columbia HICCC\nAccess: register\nJoin/register: https://colum
+ biacuimc.zoom.us/webinar/register/WN_d-atz6QsQUG1j76oVU9L3A\nEvent page: h
+ ttps://www.cancer.columbia.edu/research/programs/cancer-genomics-and-epige
+ nomics/social-dnaing\nOne free Zoom registration covers the series.
+LOCATION:https://columbiacuimc.zoom.us/webinar/register/WN_d-atz6QsQUG1j76o
+ VU9L3A
+URL:https://www.cancer.columbia.edu/research/programs/cancer-genomics-and-e
+ pigenomics/social-dnaing
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-17-vindigni@open-seminar-finder
+DTSTAMP:20261124T180712Z
+DTSTART:20261217T170000Z
+DTEND:20261217T180000Z
+SUMMARY:Alessandro Vindigni: Understanding the Mechanisms of DNA Replicatio
+ n Stress Response to PARP Inhibitors
+DESCRIPTION:Alessandro Vindigni\, Washington University in St. Louis\nSocia
+ l DNAing · Columbia HICCC\nAccess: register\nJoin/register: https://colum
+ biacuimc.zoom.us/webinar/register/WN_d-atz6QsQUG1j76oVU9L3A\nEvent page: h
+ ttps://www.cancer.columbia.edu/research/programs/cancer-genomics-and-epige
+ nomics/social-dnaing\nOne free Zoom registration covers the series.
+LOCATION:https://columbiacuimc.zoom.us/webinar/register/WN_d-atz6QsQUG1j76o
+ VU9L3A
+URL:https://www.cancer.columbia.edu/research/programs/cancer-genomics-and-e
+ pigenomics/social-dnaing
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-02-driscoll@open-seminar-finder
+DTSTAMP:20261124T180712Z
+DTSTART:20270202T150000Z
+DTEND:20270202T160000Z
+SUMMARY:Meghan Driscoll: Quantifying 3D cancer cell morphology and dynamics
+DESCRIPTION:Meghan Driscoll\, University of Minnesota\nCancer Center Semina
+ r Series · Masonic Cancer Center\, University of Minnesota\nAccess: on re
+ quest\nJoin/register: https://umn-private.zoom.us/j/98692713230\nEvent pag
+ e: https://cancer.umn.edu/node/4816\nZoom link is on the series page but m
+ ay require a UMN login — email organizers if so.
+LOCATION:https://umn-private.zoom.us/j/98692713230
+URL:https://cancer.umn.edu/node/4816
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-04-van-vugt@open-seminar-finder
+DTSTAMP:20261124T180712Z
+DTSTART:20270204T170000Z
+DTEND:20270204T180000Z
+SUMMARY:Marcel van Vugt: Processing DNA lesions during mitosis
+DESCRIPTION:Marcel van Vugt\, University of Groningen\nSocial DNAing · Col
+ umbia HICCC\nAccess: register\nJoin/register: https://columbiacuimc.zoom.u
+ s/webinar/register/WN_d-atz6QsQUG1j76oVU9L3A\nEvent page: https://www.canc
+ er.columbia.edu/research/programs/cancer-genomics-and-epigenomics/social-d
+ naing\nOne free Zoom registration covers the series.
+LOCATION:https://columbiacuimc.zoom.us/webinar/register/WN_d-atz6QsQUG1j76o
+ VU9L3A
+URL:https://www.cancer.columbia.edu/research/programs/cancer-genomics-and-e
+ pigenomics/social-dnaing
+END:VEVENT
 END:VCALENDAR
